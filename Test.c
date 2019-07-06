@@ -4,5 +4,6 @@ return a+b;
 }
 int main() 
 { 
-printf("%d",add(10,20));
+  int z=add(10,20)
+printf("%d",z);
 }
